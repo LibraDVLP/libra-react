@@ -1,0 +1,2 @@
+img dosyasına kendinizin discord pp sini ve sunucu ppsini atın
+sonra index.html düzenlemeye başlayın sonra web siteniz zaten hazır.
